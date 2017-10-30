@@ -1,11 +1,9 @@
 # rev-rec-data
 A rich data set of reviews data mined from public repositories.
 
-Projects: 
+## Projects:
 
-Projects:
-
-Gerrit
+#### Gerrit
 
 1. Android
 https://android-review.googlesource.com/
@@ -67,7 +65,7 @@ https://dev.vaadin.com
 https://gem5-review.googlesource.com
 
 
-GitHub:
+#### GitHub
 
 1. react
 https://github.com/facebook/react
