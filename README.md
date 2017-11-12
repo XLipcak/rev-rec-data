@@ -10,7 +10,7 @@ https://android-review.googlesource.com/
 
 
 2. Openstack
-https://codereview.qt-project.org
+https://review.openstack.org/
 
 
 3. Libreoffice
