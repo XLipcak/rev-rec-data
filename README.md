@@ -5,59 +5,59 @@ A rich data set of reviews data mined from public Gerrit and GitHub repositories
 
 #### Gerrit
 
-1. Android
+1. android
 https://android-review.googlesource.com/
 
 
-2. Openstack
+2. openstack
 https://review.openstack.org/
 
 
-3. Libreoffice
+3. libreoffice
 https://gerrit.libreoffice.org/
 
 
-4. QT
+4. qt
 https://codereview.qt-project.org
 
 
-5. Eclipse
+5. eclipse
 https://git.eclipse.org/r/
 
 
-6. Go
+6. go
 https://go-review.googlesource.com
 
 
-7. GWT
+7. gwt
 https://gwt-review.googlesource.com
 
 
-8. Kitware
+8. kitware
 http://review.source.kitware.com/
 
 
-9. Typo3
+9. typo3
 https://review.typo3.org/
 
 
-10. Scilab
+10. scilab
 https://codereview.scilab.org/
 
 
-11. Chromium
+11. chromium
 https://chromium-review.googlesource.com
 
 
-12. Lineageos
+12. lineageos
 https://review.lineageos.org/
 
 
-13. Gem5
+13. gem5
 https://gem5-review.googlesource.com
 
 
-14. Gerrit
+14. gerrit
 https://gerrit-review.googlesource.com
 
 
