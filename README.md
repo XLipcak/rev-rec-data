@@ -1,5 +1,5 @@
 # rev-rec-data
-A rich data set of reviews data mined from public repositories.
+A rich data set of reviews data mined from public Gerrit and GitHub repositories.
 
 ## Projects:
 
@@ -37,11 +37,11 @@ https://gwt-review.googlesource.com
 http://review.source.kitware.com/
 
 
-9. typo3
+9. Typo3
 https://review.typo3.org/
 
 
-10. scilab
+10. Scilab
 https://codereview.scilab.org/
 
 
@@ -49,79 +49,164 @@ https://codereview.scilab.org/
 https://chromium-review.googlesource.com
 
 
-12. Lineage
+12. Lineageos
 https://review.lineageos.org/
 
 
-13. Openswitch
-https://review.openswitch.net
-
-
-14. Vaadin
-https://dev.vaadin.com
-
-
-15. gem5
+13. Gem5
 https://gem5-review.googlesource.com
+
+
+14. Gerrit
+https://gerrit-review.googlesource.com
+
 
 
 #### GitHub
 
-1. react
-https://github.com/facebook/react
-
-
-2. react-native
-https://github.com/facebook/react-native
-
-
-3. linux
-https://github.com/torvalds/linux
-
-
-4. jquery
-https://github.com/jquery/jquery
-
-
-5. angular.js
+1. angular.js
 https://github.com/angular/angular.js
 
 
-6. ruby
-https://github.com/ruby/ruby
+2. angular
+https://github.com/angular/angular
 
 
-7. vue.js 
-https://github.com/vuejs/vue
+3. jquery
+https://github.com/jquery/jquery
 
 
-8. moby
-https://github.com/moby/moby
+4. react
+https://github.com/facebook/react
 
 
-9. meteor
-https://github.com/meteor/meteor
+5. react-native
+https://github.com/facebook/react-native
 
 
-10. reveal.js
+6. revealjs
 https://github.com/hakimel/reveal.js
 
 
-11. socket.io
-https://github.com/socketio/socket.io
+7. vue
+https://github.com/vuejs/vue
 
 
-12. three.js
-https://github.com/mrdoob/three.js
+8. ionic
+https://github.com/ionic-team/ionic
 
 
-13. express
-https://github.com/expressjs/express
+9. requests
+https://github.com/requests/requests
 
 
-14. redux
+10. webpack
+https://github.com/webpack/webpack
+
+
+11. redux
 https://github.com/reactjs/redux
 
 
-15. momentjs
+12. oh-my-zsh
+https://github.com/robbyrussell/oh-my-zsh
+
+
+13. atom
+https://github.com/atom/atom
+
+
+14. django
+https://github.com/django/django
+
+
+15. jekyll
+https://github.com/jekyll/jekyll
+
+
+16. laravel
+https://github.com/laravel/laravel
+
+
+17. material-ui
+https://github.com/callemall/material-ui
+
+
+18. meteor
+https://github.com/meteor/meteor
+
+
+19. moment
 https://github.com/moment/moment
+
+
+20. swift
+https://github.com/apple/swift
+
+
+21. tensorflow
+https://github.com/tensorflow/tensorflow
+
+
+22. threejs
+https://github.com/mrdoob/three.js
+
+
+23. rxjava
+https://github.com/ReactiveX/RxJava
+
+
+24. homebrew-core
+https://github.com/Homebrew/homebrew-core
+
+
+25. yarn
+https://github.com/yarnpkg/yarn
+
+
+26. brackets
+https://github.com/adobe/brackets
+
+
+27. kubernetes
+https://github.com/kubernetes/kubernetes
+
+
+28. bootstrap
+https://github.com/twbs/bootstrap
+
+
+29. spring-boot
+https://github.com/spring-projects/spring-boot
+
+
+30. opencv
+https://github.com/opencv/opencv
+
+
+31. spark
+https://github.com/apache/spark
+
+
+32. moby
+https://github.com/moby/moby
+
+
+33. cgm-remote-monitor
+https://github.com/nightscout/cgm-remote-monitor
+
+
+34. scikit-learn
+https://github.com/scikit-learn/scikit-learn
+
+
+35. spring-framework
+https://github.com/spring-projects/spring-framework
+
+
+36. bitcoin
+https://github.com/bitcoin/bitcoin
+
+
+37. redis
+https://github.com/antirez/redis
