@@ -1,5 +1,9 @@
-# rev-rec-data
+# A Large-Scale Study on Source Code Reviewer Recommendation
 A rich data set of reviews data mined from public Gerrit and GitHub repositories.
+
+#### If you use this data set, please cite: 
+
+> Lipcak, J., Rossi, B. (2018) A Large-Scale Study on Source Code Reviewer Recommendation, in 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA) 2018, IEEE.
 
 ## Projects:
 
